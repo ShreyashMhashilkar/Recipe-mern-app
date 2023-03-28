@@ -15,13 +15,13 @@ npm start
 npm install
 ```
 
-1)Command for running backend 
+3)Command for running backend 
 
 ```
 nodemon index.js
 ```
 
-2)Run below mentioned command to install all the packages in backend
+4)Run below mentioned command to install all the packages in backend
 
 ```
 npm install
